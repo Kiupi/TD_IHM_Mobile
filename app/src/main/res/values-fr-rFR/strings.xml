@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TD Mobile IHM</string>
+    <string name="activity_main_button_edition">Edition</string>
+    <string name="activity_edit_textview_hint">Votre nom</string>
+    <string name="activity_edit_button_validate">Valider</string>
+</resources>
